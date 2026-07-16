@@ -1,0 +1,74 @@
+\documentclass[conference,letterpaper]{IEEEtran}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\addto\captionsspanish{\renewcommand{\tablename}{Tabla}}
+\addto\captionsspanish{\renewcommand{\listtablename}{Índice de tablas}}
+\usepackage[
+    backend=biber,
+    citestyle=numeric,
+    bibstyle=authoryear,
+    sorting=none
+]{biblatex}
+
+\makeatletter
+\input{numeric.bbx}
+\makeatother
+
+\addbibresource{references.bib}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{booktabs}
+\usepackage{url}
+\usepackage{tikz}
+\usetikzlibrary{shapes.geometric, arrows, positioning}
+\usepackage[top=19mm, bottom=25.4mm, left=17.3mm, right=17.3mm, columnsep=4.22mm]{geometry}
+\usepackage[hidelinks]{hyperref}
+
+% Optimización de la ubicación de figuras y tablas (evita páginas vacías)
+\renewcommand{\topfraction}{0.9}
+\renewcommand{\bottomfraction}{0.8}
+\renewcommand{\floatpagefraction}{0.75}
+\renewcommand{\dblfloatpagefraction}{0.7}
+
+% Definición del título del artículo
+\title{Visión por Computadora e Inteligencia Artificial en Sistemas de Transporte Inteligentes y Monitoreo de Conductores: Un Estado del Arte}
+
+% Definición del bloque de autores
+\author{
+    \IEEEauthorblockN{Clinio Omar Rayme Huacho}
+    \IEEEauthorblockA{
+        \textit{Ingeniería Informática y Sistemas} \\
+        \textit{Universidad Nacional Micaela Bastidas}\\
+        Abancay, Perú \\
+        192223@unamba.edu.pe
+    }
+    \and
+    \IEEEauthorblockN{Cristian Mosqueira Huamanñahui}
+    \IEEEauthorblockA{
+        \textit{Ingeniería Informática y Sistemas} \\
+        \textit{Universidad Nacional Micaela Bastidas}\\
+        Abancay, Perú \\
+        181223@unamba.edu.pe
+    }
+}
+
+\begin{document}
+
+\maketitle
+
+% Resumen del artículo
+\input{abstract}
+
+% Secciones del artículo (Archivos externos)
+\input{introduccion}
+\input{metodologia}
+\input{resultados}
+\input{discusion}
+\input{limitaciones}
+\input{conclusiones}
+
+% Referencias bibliográficas
+\nocite{*}
+\printbibliography
+
+\end{document}
