@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.31)  15 JUL 2026 18:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.31)  16 JUL 2026 15:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1038,10 +1038,10 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 \@quotelevel=\count472
 \@quotereset=\count473
 (main.aux
-LaTeX Info: Redefining \. on input line 34.
-LaTeX Info: Redefining \% on input line 34.
+LaTeX Info: Redefining \. on input line 44.
+LaTeX Info: Redefining \% on input line 44.
 Package babel Info: 'spanish' activates 'spanish' shorthands.
-(babel)             Reported on input line 34.
+(babel)             Reported on input line 44.
 )
 \openout1 = `main.aux'.
 
@@ -1148,19 +1148,21 @@ Package hyperref Info: Link coloring OFF on input line 55.
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
- (abstract.tex) (introduccion.tex [1{C:/Users/r2d2/AppData/Local/MiKTeX/fonts/m
-ap/pdftex/pdftex.map}{C:/Users/r2d2/AppData/Local/Programs/MiKTeX/fonts/enc/dvi
-ps/base/8r.enc}
+ (abstract.tex) (introduccion.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1{C:/Users/r2d2/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/r2
+d2/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}
 
 
-]) (metodologia.tex [2]
-<../graficos/24_prisma_db_dist.png, id=169, 422.0568pt x 219.7008pt>
+]) (metodologia.tex
+<../graficos/24_prisma_db_dist.png, id=144, 422.0568pt x 219.7008pt>
 File: ../graficos/24_prisma_db_dist.png Graphic file (type png)
 <use ../graficos/24_prisma_db_dist.png>
 Package pdftex.def Info: ../graficos/24_prisma_db_dist.png  used on input line 
 64.
 (pdftex.def)             Requested size: 247.60506pt x 128.89153pt.
-
+ [2]
 Underfull \hbox (badness 5667) in paragraph at lines 79--79
 []\OT1/ptm/b/n/8 Componente PI-
  []
@@ -1170,7 +1172,7 @@ Underfull \hbox (badness 1831) in paragraph at lines 81--81
 []\OT1/ptm/b/n/8 P\OT1/ptm/m/n/8 oblaci[]on / Con-
  []
 
-<../graficos/23_linea_publicaciones_año.png, id=174, 711.1368pt x 349.7868pt>
+<../graficos/23_linea_publicaciones_año.png, id=162, 711.1368pt x 349.7868pt>
 File: ../graficos/23_linea_publicaciones_año.png Graphic file (type png)
 <use ../graficos/23_linea_publicaciones_año.png>
 Package pdftex.def Info: ../graficos/23_linea_publicaciones_año.png  used on i
@@ -1178,21 +1180,24 @@ nput line 100.
 (pdftex.def)             Requested size: 247.60506pt x 121.78673pt.
 [3 <../graficos/24_prisma_db_dist.png> <../graficos/23_linea_publicaciones_año
 .png>]
-<../graficos/16_heatmap_cruce_3x3_entornos.png, id=190, 685.8423pt x 422.0568pt
+<../graficos/16_heatmap_cruce_3x3_entornos.png, id=174, 685.8423pt x 422.0568pt
 >
 File: ../graficos/16_heatmap_cruce_3x3_entornos.png Graphic file (type png)
 <use ../graficos/16_heatmap_cruce_3x3_entornos.png>
 Package pdftex.def Info: ../graficos/16_heatmap_cruce_3x3_entornos.png  used on
  input line 163.
 (pdftex.def)             Requested size: 247.60506pt x 152.37181pt.
-) (resultados.tex [4 <../graficos/16_heatmap_cruce_3x3_entornos.png>]
-<../graficos/10_heatmap_relacion.png, id=263, 686.8059pt x 458.1918pt>
+) (resultados.tex
+Underfull \vbox (badness 1097) has occurred while \output is active []
+
+ [4 <../graficos/16_heatmap_cruce_3x3_entornos.png>]
+<../graficos/10_heatmap_relacion.png, id=254, 686.8059pt x 458.1918pt>
 File: ../graficos/10_heatmap_relacion.png Graphic file (type png)
 <use ../graficos/10_heatmap_relacion.png>
 Package pdftex.def Info: ../graficos/10_heatmap_relacion.png  used on input lin
 e 33.
 (pdftex.def)             Requested size: 247.60506pt x 165.18663pt.
-<../graficos/17_cruce_implementacion_metodologia.png, id=264, 855.6768pt x 494.
+<../graficos/17_cruce_implementacion_metodologia.png, id=255, 855.6768pt x 494.
 3268pt>
 File: ../graficos/17_cruce_implementacion_metodologia.png Graphic file (type pn
 g)
@@ -1200,9 +1205,8 @@ g)
 Package pdftex.def Info: ../graficos/17_cruce_implementacion_metodologia.png  u
 sed on input line 39.
 (pdftex.def)             Requested size: 247.60506pt x 143.04184pt.
-
-[5]
-<../graficos/20_boxplot_accuracy_metodologia.png, id=299, 711.1368pt x 458.1918
+ [5 <../graficos/10_heatmap_relacion.png>]
+<../graficos/20_boxplot_accuracy_metodologia.png, id=284, 711.1368pt x 458.1918
 pt>
 File: ../graficos/20_boxplot_accuracy_metodologia.png Graphic file (type png)
 <use ../graficos/20_boxplot_accuracy_metodologia.png>
@@ -1600,10 +1604,10 @@ Overfull \hbox (13.87856pt too wide) in paragraph at lines 392--421
  [][] 
  []
 
-[6 <../graficos/10_heatmap_relacion.png> <../graficos/17_cruce_implementacion_m
-etodologia.png> <../graficos/20_boxplot_accuracy_metodologia.png>] [7] [8]
-[9] [10] [11] [12] [13] [14] [15]) (discusion.tex) (limitaciones.tex [16]
-<../graficos/19_cruce_limitaciones_metodologia.png, id=799, 684.156pt x 422.056
+) (discusion.tex [6 <../graficos/17_cruce_implementacion_metodologia.png> <../g
+raficos/20_boxplot_accuracy_metodologia.png>] [7] [8] [9] [10] [11] [12]
+[13] [14] [15]) (limitaciones.tex [16]
+<../graficos/19_cruce_limitaciones_metodologia.png, id=783, 684.156pt x 422.056
 8pt>
 File: ../graficos/19_cruce_limitaciones_metodologia.png Graphic file (type png)
 
@@ -1611,16 +1615,15 @@ File: ../graficos/19_cruce_limitaciones_metodologia.png Graphic file (type png)
 Package pdftex.def Info: ../graficos/19_cruce_limitaciones_metodologia.png  use
 d on input line 20.
 (pdftex.def)             Requested size: 247.60506pt x 152.74533pt.
-<../graficos/22_cruce_limitaciones_entorno.png, id=805, 676.929pt x 422.0568pt>
+<../graficos/22_cruce_limitaciones_entorno.png, id=789, 676.929pt x 422.0568pt>
 
 File: ../graficos/22_cruce_limitaciones_entorno.png Graphic file (type png)
 <use ../graficos/22_cruce_limitaciones_entorno.png>
 Package pdftex.def Info: ../graficos/22_cruce_limitaciones_entorno.png  used on
  input line 28.
 (pdftex.def)             Requested size: 247.60506pt x 154.37466pt.
-
-[17 <../graficos/19_cruce_limitaciones_metodologia.png> <../graficos/22_cruce_l
-imitaciones_entorno.png>]) (conclusiones.tex)
+) (conclusiones.tex [17 <../graficos/19_cruce_limitaciones_metodologia.png> <..
+/graficos/22_cruce_limitaciones_entorno.png>])
 Underfull \hbox (badness 1917) in paragraph at lines 73--73
 [][]\OT1/ptm/m/n/10 Chuanfei Hu, Xin-de Li y Jian-xin Pang (2026).
  []
@@ -1656,7 +1659,7 @@ Underfull \hbox (badness 1874) in paragraph at lines 73--73
 [][]\OT1/ptm/m/n/10 Ayoub Cha-ref, Zahi Ja-rir y Moha-med Qua-fa-fou
  []
 
-[20] [21]
+[20]
 Underfull \hbox (badness 3068) in paragraph at lines 73--73
 [][]\OT1/ptm/m/n/10 Furkat Sa-fa-rov et al. (2023). ``Real-Time Deep
  []
@@ -1666,7 +1669,7 @@ Underfull \hbox (badness 2221) in paragraph at lines 73--73
 \OT1/ptm/m/n/10 Learning-Based Drow-si-ness De-tec-tion: Le-ve-ra-ging
  []
 
-[22]
+[21] [22]
 Underfull \hbox (badness 2809) in paragraph at lines 73--73
 \OT1/ptm/m/n/10 leOCR''. En: \OT1/ptm/m/it/10 2025 5th In-ter-na-tio-nal Con-fe
 -ren-ce
@@ -1707,28 +1710,28 @@ Before submitting the final camera ready copy, remember to:
 [27
 
 ] (main.aux
-LaTeX Info: Redefining \sptext on input line 34.
-LaTeX Info: Redefining \. on input line 34.
-LaTeX Info: Redefining \% on input line 34.
+LaTeX Info: Redefining \sptext on input line 44.
+LaTeX Info: Redefining \. on input line 44.
+LaTeX Info: Redefining \% on input line 44.
 )
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 90B35AE6A67F249C836FFD1867D8E906;7856.
+(rerunfilecheck)             Checksum: 3E8DC223B4444E011BBEAF8F23067ADD;6528.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 32605 strings out of 467871
- 650901 string characters out of 5418860
- 1658085 words of memory out of 5000000
- 60746 multiletter control sequences out of 15000+600000
+ 32597 strings out of 467871
+ 650781 string characters out of 5418860
+ 1671748 words of memory out of 5000000
+ 60742 multiletter control sequences out of 15000+600000
  667074 words of font info for 105 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,11n,104p,1224b,1834s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,11n,104p,1541b,1834s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/r2d2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
 mmi7.pfb><C:/Users/r2d2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmr10.pfb><C:/Users/r2d2/AppData/Local/Programs/MiKTeX/fonts/type1/public
@@ -1738,9 +1741,9 @@ s/type1/urw/times/utmb8a.pfb><C:/Users/r2d2/AppData/Local/Programs/MiKTeX/fonts
 /type1/urw/times/utmbi8a.pfb><C:/Users/r2d2/AppData/Local/Programs/MiKTeX/fonts
 /type1/urw/times/utmr8a.pfb><C:/Users/r2d2/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (27 pages, 1504065 bytes).
+Output written on main.pdf (27 pages, 1500317 bytes).
 PDF statistics:
- 1274 PDF objects out of 1440 (max. 8388607)
- 305 named destinations out of 1000 (max. 500000)
- 277 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1258 PDF objects out of 1440 (max. 8388607)
+ 301 named destinations out of 1000 (max. 500000)
+ 245 words of extra memory for PDF output out of 10000 (max. 10000000)
 

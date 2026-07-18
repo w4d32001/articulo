@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 1784159535.35005 "main.bcf" "main.bbl" "main" 1784159569.9931 0
-  "main.bcf" 1784159569 134132 1bc7c69f8f6823a21ff5c450813f2312 "pdflatex"
+["biber main"] 1784232742.71208 "main.bcf" "main.bbl" "main" 1784234165.7346 0
+  "main.bcf" 1784234165 134129 2f738d1f5a01efccd0f8cc2c84738efc "pdflatex"
   "references.bib" 1784159430 68601 d5cb2b72cec97e5946f1cc59d50d1d27 ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1784159555.14392 "main.tex" "main.pdf" "main" 1784159569.99488 0
+["pdflatex"] 1784234152.46305 "main.tex" "main.pdf" "main" 1784234165.7361 0
   "../graficos/10_heatmap_relacion.png" 1784056924 245470 e800f701713153f913ec86e6f9470b75 ""
   "../graficos/16_heatmap_cruce_3x3_entornos.png" 1784056929 157526 2fccaad2e429fef32b651cc32c88b188 ""
   "../graficos/17_cruce_implementacion_metodologia.png" 1784056930 144138 0f1fdb215edcb408c0e225f7954a3a34 ""
@@ -189,12 +189,12 @@
   "abstract.tex" 1784159430 1381 14050bb411db7305135fef3651c1195a ""
   "conclusiones.tex" 1784159430 2128 ad721dbd752738ec7ccd52bb918ff752 ""
   "discusion.tex" 1784159430 3855 054bd630159d91b7fd5254011bca62ed ""
-  "introduccion.tex" 1784159430 7310 92589590c1268dfd4b6a7ad02d61f7fc ""
+  "introduccion.tex" 1784234107 5661 b9e435adb296f884b46d85756da546b5 ""
   "limitaciones.tex" 1784159430 8404 d4573080a9d0403d25fa28b11c190752 ""
-  "main.aux" 1784159568 69859 724ffef43dbcebef1ef0a3a6c1df635f "pdflatex"
-  "main.bbl" 1784159542 426855 cdb2952ee1d5f5e216af2e8fb3b2136b "biber main"
-  "main.out" 1784159569 7856 90b35ae6a67f249c836ffd1867d8e906 "pdflatex"
-  "main.run.xml" 1784159569 2308 82dbcf8c11d0887a4cdf36c8119d5a76 "pdflatex"
+  "main.aux" 1784234164 69185 3044f24e013af9f551131e120943cb62 "pdflatex"
+  "main.bbl" 1784232752 426855 334a175af9078f2cf335ca24d8b19d9a "biber main"
+  "main.out" 1784234165 6528 3e8dc223b4444e011bbeaf8f23067add "pdflatex"
+  "main.run.xml" 1784234165 2308 82dbcf8c11d0887a4cdf36c8119d5a76 "pdflatex"
   "main.tex" 1784159430 2064 4c7b5aecc6392fc21849ae0b26c3eab8 ""
   "metodologia.tex" 1784159430 12570 1da5835315b5715c0755b7b15b57c721 ""
   "resultados.tex" 1784159430 56459 258e21772cfa55a6def09cdff248dc3b ""
